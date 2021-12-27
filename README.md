@@ -8,4 +8,4 @@
 - 🔑: React, React Native, ExpressJs, NodeJs, MongoDB, JavaScript, HTML, CSS, Python.
 
 ### Details:
-[<img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][https://www.instagram.com/ansarerlanaben]
+<a href="https://www.instagram.com/ansarerlanaben"><img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" /></a>

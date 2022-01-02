@@ -4,6 +4,7 @@
 - 👨: Aben Ansar 14 y.o.
 - 🏠: Kazakhstan, Nur-Sultan
 - 📫: ansagaang@gmail.com
+- 🌱: NIS PhMD Nur-Sultan
 - 💡: Basketball, Soccer, PhMD
 - 🔑: React, React Native, ExpressJs, NodeJs, MongoDB, JavaScript, HTML, CSS, Python.
 

@@ -1,5 +1,5 @@
 # Hello 👋, I'm Ansar
-## Middle Front-end Developer / Junior Back-end Developer / Junior Mobile Developer
+## Middle Front-end Developer / Junior Back-end Developer
 
 - 👨: Aben Ansar 14 y.o.
 - 🏠: Kazakhstan, Nur-Sultan

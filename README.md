@@ -1,11 +1,11 @@
 # Hello 👋, I'm Ansar
 ## Middle Front-end Developer / Junior Back-end Developer
 
-- 👨: Aben Ansar 14 y.o.
+- 👨: Aben Ansar 15 y.o.
 - 🏠: Kazakhstan, Nur-Sultan
 - 📫: ansagaang@gmail.com
 - 🌱: NIS PhMD Nur-Sultan
-- 💡: Basketball, Soccer, PhMD
+- 💡: Basketball, Soccer, Physics, Maths
 - 🔑: React, React Native, ExpressJs, NodeJs, MongoDB, JavaScript, HTML, CSS, Python.
 
 ### Details:

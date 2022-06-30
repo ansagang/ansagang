@@ -1,4 +1,3 @@
-ansagang
 ## Middle Front-end Developer / Junior Back-end Developer
 
 - 📫: ansagaang@gmail.com
